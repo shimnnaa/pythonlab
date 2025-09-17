@@ -1,4 +1,4 @@
-basic_pay=float(input("enetr the basic pay of the employee:"))
+basic_pay=float(input("enetr the basic pay of the employeee:"))
 hra=0.10*basic_pay
 ta=0.05*basic_pay
 gross_salary=basic_pay+hra+ta
