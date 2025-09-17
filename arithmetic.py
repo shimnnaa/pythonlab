@@ -1,4 +1,4 @@
-num1=int(input("enter the first integer:"))
+num1=int(input("enter the first integerr:"))
 num2=int(input("enter the second integer:"))
 addition=num1+num2
 subtraction=num1-num2
